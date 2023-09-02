@@ -24,4 +24,4 @@ The project includes data visualization, model training, prediction, and evaluat
 - A scatter plot visualizes the actual vs. predicted scores.
 
   
-### We made predictions using the trained model, including predicting the score for a specific case where a student studies for 9.25 hours, which resulted in a predicted score of approximately 92.39.¶
+### We made predictions using the trained model, including predicting the score for a specific case where a student studies for 9.25 hours, which resulted in a predicted score of approximately 92.39.
