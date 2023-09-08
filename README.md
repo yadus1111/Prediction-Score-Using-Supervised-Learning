@@ -121,7 +121,5 @@ This project combines two different data sources, numerical stock price data and
 
 In conclusion, this hybrid model combining numerical analysis and sentiment analysis proved to be effective in predicting stock price/performance. The Gradient Boosting model outperformed other models, achieving an accuracy of approximately 81.56%. This analysis demonstrates the potential of leveraging both numerical and textual data for stock market prediction.
 
-### Instructions for Running the Code:
-
 
 Enjoy exploring the world of stock market prediction!
